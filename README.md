@@ -46,6 +46,9 @@ hourRotation(12); // returns 0
 hourRotation(5); // returns (5 / 12) * 360
 ```
 
+## **LIVE DEMO**
+- [LIVE DEMO](https://ifeanyins.github.io/Clock-JS/)
+
 ## Bonus: Show Actual Time
 Use JavaScripts `Date` objects to display the actual
 time.
